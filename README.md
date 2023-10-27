@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning: **PowerBI**
+- 🌱 I’m currently: sharpening my data analytics skills at Google as an apprentice.
 
 - 📫 How to reach me: **LinkedIn**
 
